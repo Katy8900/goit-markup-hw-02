@@ -48,6 +48,11 @@ body {
 .menu-list-studio {
   color: #2e2f42;
 }
+.menu-list-studio:hover,
+.menu-list-studio:focus {
+  color: #404bbf;
+}
+
 .menu-list-nav {
   color: #434455;
 }
