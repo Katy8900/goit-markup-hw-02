@@ -17,7 +17,15 @@ body {
 }
 
 .contacts-nav {
-  font-style: normal
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.tel-mail {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -37,7 +45,7 @@ body {
   color: #2e2f42;
 }
 .menu-list-nav {
-  color: #2e2f42;
+  color: #434455;
 }
 .menu-list-nav:hover,
 .menu-list-nav:focus {
@@ -55,19 +63,19 @@ body {
 .solutions {
   background: #2e2f42;
 }
-.order {
+.btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
-.order:hover,
-.order:focus {
-  background: #404bbf;
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
 }
 a {
   text-decoration: none;
@@ -168,9 +176,3 @@ ul {
 .our-team {
   background: #f4f4fd;
 }
-p {
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;}
