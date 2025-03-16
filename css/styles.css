@@ -149,7 +149,7 @@ a {
   text-transform: uppercase;
   color: #f4f4fd;
 }
-.footer-web {
+.studio-end {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -160,9 +160,9 @@ a {
   color: #f4f4fd;
 }
 .sect-end {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
-.text-footer {
+.text-end {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
