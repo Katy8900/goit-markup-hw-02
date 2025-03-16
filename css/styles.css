@@ -150,16 +150,9 @@ a {
   color: #f4f4fd;
 }
 .studio-end {
-  font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #f4f4fd;
 }
-.sect-end {
+.end-page {
   background-color: #2e2f42;
 }
 .text-end {
@@ -175,7 +168,7 @@ ul {
 .our-team {
   background: #f4f4fd;
 }
-p {font-family: 
+p {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
