@@ -36,7 +36,7 @@ body {
 .tel-mail:focus {
   color: #404bbf;
 }
-.header-menu-nav {
+.menu-list-nav {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -44,9 +44,6 @@ body {
   color: #2e2f42;
 }
 
-.menu-list-nav {
-  color: #434455;
-}
 .menu-list-nav:hover,
 .menu-list-nav:focus {
   color: #404bbf;
