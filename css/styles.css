@@ -36,6 +36,9 @@ body {
 .tel-mail:focus {
   color: #404bbf;
 }
+.header-menu-nav {
+  color: #2e2f42;
+}
 
 .header-menu {
   font-weight: 500;
